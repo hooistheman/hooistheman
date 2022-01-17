@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hooistheman
-- 👀 I’m interested in software engineering and machine learning
+- 👀 I’m interested in software engineering, decentralized blockchains and machine learning
 - 🌱 I’m currently learning advanced computing system designs
 - 💞️ I’m looking to collaborate on side projects
 
